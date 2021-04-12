@@ -124,9 +124,9 @@ function addEngineerHtml(name, id, email, github){
     employeesHtml += `<div class="card mx-auto" style="width: 18rem">
     <h5 class="card-header">${name}<br /><br />Engineer</h5>
     <ul class="list-group list-group-flush">
-        <li class="list-group-item">${id}</li>
-        <li class="list-group-item">${email}</li>
-        <li class="list-group-item">${github}</li>
+        <li class="list-group-item">id:${id}</li>
+        <li class="list-group-item">email:${email}</li>
+        <li class="list-group-item">github:${github}</li>
     </ul>
 </div>`
 }
@@ -135,9 +135,9 @@ function addInternHtml(name, id, email, school){
     employeesHtml += `<div class="card mx-auto" style="width: 18rem">
     <h5 class="card-header">${name}<br /><br />Intern</h5>
     <ul class="list-group list-group-flush">
-        <li class="list-group-item">${id}</li>
-        <li class="list-group-item">${email}</li>
-        <li class="list-group-item">${school}</li>
+        <li class="list-group-item">id:${id}</li>
+        <li class="list-group-item">email:${email}</li>
+        <li class="list-group-item">school:${school}</li>
     </ul>
 </div>`
 }
