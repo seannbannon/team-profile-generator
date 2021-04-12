@@ -1,4 +1,3 @@
-
 const Intern = require("../lib/Intern");
 
 test("Can set school via constructor", () => {
