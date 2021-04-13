@@ -10,7 +10,7 @@ Node index.js
 ![Image](images/deployed.jpg)
 
 ##Video Link of Deployment
-chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/ng/app/app.html#/files/9e7f778d-2c21-487b-y474-880daa9af4b2
+https://drive.google.com/file/d/1snegYNXlEPPlOs0O96ZTkLnKedw9_7UX/view
 
 ##Contributers
 Sean Bannon
