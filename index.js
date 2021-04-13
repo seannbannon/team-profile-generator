@@ -33,7 +33,6 @@ function addMember() {
     }])
     .then(function({name, role, id, email}) {
         let roleInfo = "";
-        console.log(name, role, id, email)
         if (role === "Engineer") {
             roleInfo = "GitHub username";
         } else if (role === "Intern") {
